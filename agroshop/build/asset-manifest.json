@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f5bf15c.css",
+    "main.js": "/static/js/main.24dcbb4a.js",
+    "static/js/787.f587e8d5.chunk.js": "/static/js/787.f587e8d5.chunk.js",
+    "static/media/sunny-meadow-landscape.jpg": "/static/media/sunny-meadow-landscape.7f788146e094f56800c9.jpg",
+    "static/media/c2.png": "/static/media/c2.6d0fad7b060c043b7e37.png",
+    "static/media/c3.png": "/static/media/c3.00a79ebef8c7b1bbacd6.png",
+    "static/media/c1.png": "/static/media/c1.33f7232682097388adcd.png",
+    "static/media/gif.gif": "/static/media/gif.90672f1deffccbcdf4f1.gif",
+    "static/media/contactus.jpeg": "/static/media/contactus.02813507a63dda10c6d7.jpeg",
+    "static/media/banner5.jpg": "/static/media/banner5.0262e1ebd488abf6e37c.jpg",
+    "static/media/about.jpeg": "/static/media/about.8fcc66508414b6b0e1fb.jpeg",
+    "static/media/logo.png": "/static/media/logo.0c0c6fb268e5d9be819a.png",
+    "static/media/butleft.webp": "/static/media/butleft.37114ee081a42e6a8ccb.webp",
+    "static/media/offer2.avif": "/static/media/offer2.09490c8daa21afae13f4.avif",
+    "static/media/offer1.avif": "/static/media/offer1.de549443309927e746a9.avif",
+    "static/media/offer4.avif": "/static/media/offer4.b64fb6794cf0d27b10e6.avif",
+    "static/media/offer3.avif": "/static/media/offer3.bd1fabd4f58d95d4e70b.avif",
+    "index.html": "/index.html",
+    "main.4f5bf15c.css.map": "/static/css/main.4f5bf15c.css.map",
+    "main.24dcbb4a.js.map": "/static/js/main.24dcbb4a.js.map",
+    "787.f587e8d5.chunk.js.map": "/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f5bf15c.css",
+    "static/js/main.24dcbb4a.js"
+  ]
+}

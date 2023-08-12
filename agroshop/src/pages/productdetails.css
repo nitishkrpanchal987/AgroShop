@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@300;400&family=Roboto:ital@1&display=swap');
+.desc{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    border-top: 1px solid black;
+}
+.descimg{
+    width: 45vw;
+    margin: 15px;
+    box-shadow: 3px 4px 2px;
+}
+.descdesc{
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 50vw;
+}
+
+.buy{
+    width: 85%;
+    padding: 18px;
+    color: #313652;
+    font-weight: bold;
+    background-color: white;
+    transition: .5s ease-in;
+    border: .2px solid #313652;
+}
+.buy:hover{
+    cursor: pointer;
+    background-color: #298D4D;
+    color: white;
+}
+.addtocart{
+    border: none;
+    margin-top: 1em;
+    width: 85%;
+    padding: 18px;
+    background-color: #313652;
+    color: white;
+    font-weight: bold;
+    transition: .5s ease-in;
+}
+.addtocart:hover{
+    cursor: pointer;
+    color: white;
+    background-color: #298D4D;
+}
+.but{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 2rem;
+}
+.butleft{
+    width: 45vw;
+    margin: 25px;
+}
+.butleftimg{
+    width: 90%;
+    height: 140px;
+    margin-top: -25px;
+}
+.butright{
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 50vw;
+}
